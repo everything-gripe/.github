@@ -17,7 +17,7 @@ The Everything organization includes the following repositories:
 
 **Clients:**
 - [Infinity for Everything](https://github.com/everything-gripe/Infinity-for-Everything): An open-source client, forked to work with Everything, providing enhanced functionalities for interacting with Everything instances.
-
+- [Dawn for Everything](https://github.com/everything-gripe/Dawn-for-Everything): An open-source client, forked to work with Everything, providing enhanced functionalities for interacting with Everything instances.
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to any of the repositories in the Everything organization, please follow the guidelines outlined in each repository's respective CONTRIBUTING.md file. By contributing to these repositories, you agree to license your contributions under their respective licenses.

@@ -22,7 +22,7 @@ The Everything organization includes the following repositories:
 - [troddit for Everything](https://github.com/everything-gripe/troddit-for-everything): An open-sourced web client, forked to work with Everything, providing authenticated logins and a variety of browsing options. Currently live at [client.everything.gripe](https://client.everything.gripe).
 - [Infinity for Everything](https://github.com/everything-gripe/Infinity-For-Everything): An open-source Android client, forked to work with Everything, providing enhanced functionalities for interacting with Everything.
 - [Dawn for Everything](https://github.com/everything-gripe/Dawn-For-Everything): An open-source Android client, forked to work with Everything, providing a smooth gesture driven user interface for interacting with Everything.
-- [Slide for Everything](https://github.com/everything-gripe/Slide-For-Everything) (WIP): An open-source Android client, forked to work with Everything, providing ad-free Everything experience.
+- [Slide for Everything](https://github.com/everything-gripe/Slide-For-Everything) (WIP): An open-source Android client, forked to work with Everything, providing an ad-free Everything experience.
 - [RedReader for Everything](https://github.com/everything-gripe/RedReader-For-Everything) (WIP): An open-source Android client, forked to work with Everything, providing enhanced functionalities for interacting with Everything.
 - [Stealth for Everything](https://github.com/everything-gripe/Stealth-For-Everything) (WIP): An open-source Android client, forked to work with Everything, providing an account-free, privacy-oriented, and feature-rich Everything experience.
   
